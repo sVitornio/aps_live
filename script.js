@@ -12,5 +12,5 @@ function atualizarIFrame() {
 // Chama a função 'atualizarIFrame' inicialmente
 atualizarIFrame();
 
-// Define o intervalo de atualização para 5 segundos (5000 milissegundos)
-setInterval(atualizarIFrame, 5000);
+// Define o intervalo de atualização para 5 segundos (3000 milissegundos)
+setInterval(atualizarIFrame, 3000);
